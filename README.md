@@ -1,7 +1,4 @@
 # CNN-and-SVM-Image-Classification-comparison
-from pathlib import Path
-
-readme = """# SVM vs. YOLO11n Image Classification
 
 This project compares two image classification approaches on a custom wildlife image dataset:
 
